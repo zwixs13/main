@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zwixs13/Blox-Fruit/refs/heads/main/script.lua", true))()
